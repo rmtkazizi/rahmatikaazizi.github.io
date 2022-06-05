@@ -15,7 +15,7 @@
         "id": "LZToi2oi1d5y"
       },
       "source": [
-        "Pada Project 1 ini saya menggunakan data E-Commerce Sales Dataset yang bersumber dari kaggel, dataset ini berisi detail penjualan platform E-Commerce yang terdiri dari dua dataset, yaitu:\n",
+        "Data E-Commerce Sales Dataset (kaggel.com):\n",
         "1. Customer Details, mencakup 20.000 data pelanggan (customer_id, sex, customer_age, tenure)\n",
         "2. Basket Details, mencakup 15.000 data transaksi keranjang (customer_id, product_id, basket_date, basket_count)\n",
         "(https://www.kaggle.com/berkayalan/ecommerce-sales-dataset)"
